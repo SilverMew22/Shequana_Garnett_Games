@@ -1431,7 +1431,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 3.8519774e-34, z: 5.7756e-41, w: 5.5065e-41}
+  m_BoundingSphereOverride: {x: 0, y: 4e-45, z: -0.00042138065, w: 4.2890633e-20}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -1536,7 +1536,7 @@ Light:
   m_BounceIntensity: 0
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 1.540791e-33, z: 5.7756e-41, w: 6.0446e-41}
+  m_BoundingSphereOverride: {x: 0, y: 6.018715e-36, z: 3.32904e-40, w: 1.37933e-40}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -2479,7 +2479,7 @@ Light:
   m_BounceIntensity: 0
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 3.8519774e-34, z: 3.57656e-40, w: 6.1881e-41}
+  m_BoundingSphereOverride: {x: 0, y: 1.540791e-33, z: 5.7756e-41, w: 5.9011e-41}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -2574,8 +2574,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Icon
       value: 
-      objectReference: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000,
-        type: 0}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 089b6d47198c4814bbc090153d615ea4, type: 3}
 --- !u!1001 &2097161924
